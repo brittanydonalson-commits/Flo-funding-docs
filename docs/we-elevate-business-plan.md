@@ -164,7 +164,7 @@ This is a **documented gap** in the housing assistance ecosystem.
 
 ### The Team
 - **Brittany** — Founder & Visionary. Lived experience in navigating life transitions, deep heart for women in crisis, drive to build something from nothing.
-- **Heather** (sister) — Co-founder & On-Site Partner. Professional experience in project management, switchboard operations, and management. Shared childhood with Brittany, tandem healing journey. The loss of her oldest child, Logan, is the original inspiration for this vision — and the driver of their passion to help others.
+- **Heather** (sister) — Co-founder & On-Site Partner. Professional experience in project management, switchboard operations, and management. Shared childhood with Brittany, tandem healing journey. The tragic loss of her oldest child, Logan, is the original inspiration for this vision — and the driver of their passion to help others.
 - **Shelby** (stepdaughter, age 28) — Program Director. Natural leader with gift for organization and taking charge. Embarked on own journey of natural eating and living, dreaming of one day having her own farm. Excited to be part of this vision.
 
 ### Phase 1 (Year 1)

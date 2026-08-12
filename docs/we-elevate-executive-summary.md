@@ -39,7 +39,7 @@ A transitional living center in Cameron, Texas that helps women who have no inde
 ### The Team
 
 - **Brittany** — Founder & Visionary. Lived experience in navigating life transitions, deep heart for women in crisis, drive to build something from nothing.
-- **Heather** (sister) — Co-founder & On-Site Partner. Professional experience in project management, switchboard operations, and management. The loss of her oldest child, Logan, is the original inspiration for this vision.
+- **Heather** (sister) — Co-founder & On-Site Partner. Professional experience in project management, switchboard operations, and management. The tragic loss of her oldest child, Logan, is the original inspiration for this vision.
 - **Shelby** (stepdaughter, age 28) — Program Director. Natural leader with a gift for organization. Dreams of having her own farm; excited to build this vision together.
 
 *Three generations, one vision.*
