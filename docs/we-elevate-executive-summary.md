@@ -61,7 +61,7 @@ A transitional living center in Cameron, Texas that helps women who have no inde
 | Site work & permits | $20,000 |
 | **Total** | **$90,000** |
 
-*DIY/volunteer build model — significantly undercuts contractor pricing. Hardware store partnerships, community build events, salvage materials.*
+*DIY/volunteer build model — significantly undercuts contractor pricing. Hardware store partnerships, community build events, salvage materials. Brittany is resourceful and practical — believes in doing things in logical, economically intelligent ways, not cutting corners.*
 
 **Land:** To be secured via church donation/lease (not purchased)
 

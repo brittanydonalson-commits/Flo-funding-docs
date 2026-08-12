@@ -226,7 +226,7 @@ This is a **documented gap** in the housing assistance ecosystem.
 | Permits | $5,000 |
 | **Total** | **$90,000** |
 
-*DIY/volunteer build model — significantly undercuts contractor pricing. Hardware store partnerships, community build events, salvage materials.*
+*DIY/volunteer build model — significantly undercuts contractor pricing. Hardware store partnerships, community build events, salvage materials, volunteer labor. Brittany is resourceful and practical — believes in doing things in logical, economically intelligent ways, not cutting corners.*
 
 **Land:** Not in budget — to be acquired via donation/lease
 

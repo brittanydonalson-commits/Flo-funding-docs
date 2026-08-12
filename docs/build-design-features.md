@@ -56,9 +56,28 @@
   - Christmas tree farm
   - Watermelon patch
 
-## Special Features
-- **Logan's Treehouse** — Family play/sensory play area
+## Phase 1 (Priority)
+- Duplex cabins (5 structures)
+- Common building
+- Fruit/Vegetable Gardens
+- Small orchard
+- Botanical/Herb Garden
+- Logan's Treehouse
+- Children's garden
+- Composting station
+- Chicken coup
+- Beehives
+- Barn and pasture (miniature goats, sheep, cows)
+- Water/rain catch system
+- Covered outdoor kitchen + brick oven
+- Fire pits
+- Indoor community kitchen (industrial)
+- Shower/Bath house (residents)
+- Laundry facilities (residents)
+- **Education Center** — Workshops, homeschool co-op hosting
 
----
-
-*Note: Phase 1 (initial facility) focuses on duplex cabins + common building + basic farm/garden. Additional features can be phased in as funding allows.*
+## Phase 2 (Future Growth)
+- Wellness Center (reflection pond, yoga studio, hot/cold tubs)
+- Farmers Market with vendor booths
+- Designated land for tiny house community
+- Seasonal activities (pumpkin patch, Christmas tree farm, watermelon patch)
