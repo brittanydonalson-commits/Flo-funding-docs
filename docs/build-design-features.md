@@ -56,27 +56,16 @@
   - Christmas tree farm
   - Watermelon patch
 
-## Phase 1 (Priority)
-- Duplex cabins (5 structures)
-- Common building
-- Fruit/Vegetable Gardens
-- Small orchard
-- Botanical/Herb Garden
-- Logan's Treehouse
-- Children's garden
-- Composting station
-- Chicken coup
-- Beehives
-- Barn and pasture (miniature goats, sheep, cows)
-- Water/rain catch system
-- Covered outdoor kitchen + brick oven
-- Fire pits
-- Indoor community kitchen (industrial)
-- Shower/Bath house (residents)
-- Laundry facilities (residents)
+## Phase 1 (Priority — Core Facilities)
+- **Housing** — Duplex cabins (5 structures)
+- **Kitchen** — Indoor community kitchen (industrial style) + Covered outdoor kitchen + brick oven + fire pits
+- **Restrooms** — Shower/Bath house (residents)
+- **Laundry** — Laundry facilities (residents)
+- **Farm/Gardens** — Fruit/Vegetable Gardens, Small orchard, Botanical/Herb Garden, Children's garden, Composting station, Chicken coup, Beehives, Barn and pasture (miniature goats, sheep, cows), Water/rain catch system
 - **Education Center** — Workshops, homeschool co-op hosting
 
-## Phase 2 (Future Growth)
+## Phase 2 (Recreation & Future Growth)
+- Logan's Treehouse
 - Wellness Center (reflection pond, yoga studio, hot/cold tubs)
 - Farmers Market with vendor booths
 - Designated land for tiny house community
