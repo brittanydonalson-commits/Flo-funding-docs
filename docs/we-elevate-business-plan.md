@@ -15,27 +15,28 @@
 **We Elevate** is a transitional living center in rural Texas that provides safe, temporary housing and comprehensive support services for women who have no independent income after divorce or widowhood — and their children.
 
 ### The Problem
-- **41%** of first marriages end in divorce
+- **~40%** of first marriages end in divorce
 - Divorce reduces women's household income by **73%**
 - **13 million widows** in the US; many never worked outside the home
 - Traditional shelters focus on domestic violence — this population falls through the cracks
 
 ### The Solution
 A residential program combining:
-- Safe housing (cabin-style campus)
+- Safe housing (duplex cabin campus)
 - Life skills & job training
 - Financial literacy
-- Homeschool co-op (residents lead)
+- Farm & gardens (therapeutic, skill-building)
+- Hosted homeschool co-op (partner with existing local co-ops)
 - Emotional & spiritual support
 - Path to self-sufficiency
 
 ### Funding Ask
-- **Startup:** $58,000 - $101,000 (facility construction)
+- **Startup:** $90,000 (5 duplex cabins + common building + site work)
 - **Land:** Donation or lease (target: 10-20 acres)
-- **Ongoing:** Grants + crowdfunding + donations
+- **Ongoing:** Private funding only — corporate sponsors, investors, crowdfunding, donations
 
 ### Impact
-- 10-20 women + their children served at a time
+- 10 families served at a time
 - 6-24 month program length
 - Goal: 80%+ graduates to permanent housing
 
@@ -44,7 +45,7 @@ A residential program combining:
 ## 2. Mission & Vision
 
 ### Mission
-I know what it's like to give your whole life to something and have it fall apart. WeElevate is for women who've done exactly that — and deserve a chance to rebuild.
+We know what it's like to give your whole life to something and have it fall apart. We Elevate is for women who've done exactly that — and deserve a chance to rebuild with dignity.
 
 ### Vision
 A world where every woman in transition has the support, resources, and opportunity to create a safe, independent future for herself and her children.
@@ -54,6 +55,7 @@ A world where every woman in transition has the support, resources, and opportun
 - **Empowerment** — Build skills, not dependency
 - **Community** — Together we rise
 - **Hope** — Every day is a fresh start
+- **Autonomy** — No government strings attached
 
 ---
 
@@ -62,11 +64,13 @@ A world where every woman in transition has the support, resources, and opportun
 ### National Context
 | Statistic | Source |
 |-----------|--------|
-| 41% of first marriages end in divorce | APA 2025 |
-| 673,989 divorces in 2022 | CDC |
+| ~40% of first marriages end in divorce | Institute for Family Studies, 2024 |
+| 14.2 divorced women per 1,000 married women | BGSU, 2024 |
 | 73% income reduction for women after divorce | WorldMetrics |
 | 13 million widows in the US | US Census |
-| 259,473 family members homeless (2024) | HUD |
+| 24 million children in single-parent families | AECF |
+| 28% poverty rate for single mothers | Center for American Progress |
+| Family homelessness hit record highs (2024) | HUD |
 
 ### Texas-Specific
 | Statistic | Data |
@@ -74,7 +78,6 @@ A world where every woman in transition has the support, resources, and opportun
 | Population | 30.5 million |
 | Families with children homeless | 6,339 |
 | Family homelessness increase (2023-24) | +39% |
-| Divorce filings increased (2024) | +3.7% |
 | Divorce rate | 2.1-2.7 per 1,000 |
 
 ### The Gap We Fill
@@ -115,12 +118,12 @@ This is a **documented gap** in the housing assistance ecosystem.
 
 | Structure | Quantity | Purpose |
 |-----------|----------|---------|
-| Single cabins (12x12) | 4 | Individual women |
-| Family cabins w/loft (12x16) | 6 | Mothers with children |
-| Common building (30x40 barn) | 1 | Kitchen, dining, community |
+| Duplex cabins | 5 | Each has 2 private units; flexible: 2 families of 3 kids each OR 1 large family |
+| Common building | 1 | Kitchen, dining, community |
 | Bathhouse (M/F) | 1 | Showers, toilets, laundry |
+| Farm/garden | TBD | Therapeutic, skill-building |
 
-**Total capacity:** ~10-20 women + their children
+**Total capacity:** 10 families (up to 20+ women + children)
 
 ### Program Components
 
@@ -135,7 +138,7 @@ This is a **documented gap** in the housing assistance ecosystem.
 - Job skills training
 - Financial literacy (budgeting, credit)
 - Education/credential programs
-- Part-time work (on-site or remote)
+- Part-time work (on-site farm or remote)
 - Counseling sessions
 
 **Phase 3: Transition (Months 12-18+)**
@@ -145,8 +148,8 @@ This is a **documented gap** in the housing assistance ecosystem.
 - Graduation to permanent housing
 
 ### Additional Services
-- **Homeschool co-op** — Residents teach each other's children
-- **Farm work** — Therapeutic, skill-building
+- **Homeschool co-op access** — Partner with existing local co-ops (not run by residents)
+- **Farm work** — Therapeutic, skill-building, purpose
 - **Social enterprise** — Optional: farmers market, crafts
 - **Spiritual support** — Optional, non-denominational
 
@@ -159,13 +162,18 @@ This is a **documented gap** in the housing assistance ecosystem.
 
 ## 6. Organizational Structure
 
+### The Team
+- **Brittany** — Founder & Visionary. Lived experience in navigating life transitions, deep heart for women in crisis, drive to build something from nothing.
+- **Heather** (sister) — Co-founder & On-Site Partner. Professional experience in project management, switchboard operations, and management. Shared childhood with Brittany, tandem healing journey. The loss of her oldest child, Logan, is the original inspiration for this vision — and the driver of their passion to help others.
+- **Shelby** (stepdaughter, age 28) — Program Director. Natural leader with gift for organization and taking charge. Embarked on own journey of natural eating and living, dreaming of one day having her own farm. Excited to be part of this vision.
+
 ### Phase 1 (Year 1)
 | Role | Status | Notes |
 |------|--------|-------|
 | Executive Director | Brittany | Founder, full-time |
-| Program Manager | Volunteer/TBD | Part-time initially |
+| Program Director | Shelby | Full-time |
+| On-Site Partner | Heather | Full-time |
 | Case Manager | Volunteer/TBD | Part-time initially |
-| Farm/Maintenance | Volunteer | Part-time |
 
 ### Phase 2 (Year 2)
 - Add part-time bookkeeper
@@ -173,7 +181,6 @@ This is a **documented gap** in the housing assistance ecosystem.
 - Add part-time counselor
 
 ### Phase 3 (Year 3+)
-- Full-time program director
 - Full-time case manager
 - Part-time administrative support
 
@@ -211,14 +218,15 @@ This is a **documented gap** in the housing assistance ecosystem.
 
 ### Startup Costs
 
-| Item | Low | High |
-|------|-----|------|
-| Single cabins (4×) | $5,000 | $8,000 |
-| Family cabins (6×) | $11,000 | $18,000 |
-| Common building | $25,000 | $40,000 |
-| Site work | $15,000 | $30,000 |
-| Permits | $2,000 | $5,000 |
-| **Total** | **$58,000** | **$101,000** |
+| Item | Target Budget |
+|------|---------------|
+| Duplex cabins (5×) | $50,000 |
+| Common building | $20,000 |
+| Site work | $15,000 |
+| Permits | $5,000 |
+| **Total** | **$90,000** |
+
+*DIY/volunteer build model — significantly undercuts contractor pricing. Hardware store partnerships, community build events, salvage materials.*
 
 **Land:** Not in budget — to be acquired via donation/lease
 
@@ -236,18 +244,16 @@ This is a **documented gap** in the housing assistance ecosystem.
 
 ### Funding Sources
 
-**Startup Grants:**
-- USDA Rural Development Community Facilities (up to 75%)
-- TSAHC Texas Foundations Fund ($1.2M, deadline Aug 1)
-- HUD ESG (~$9.3M/year statewide)
-- TDHCA NOFAs
+**PRIVATE FUNDING ONLY — No government grants**
 
-**Ongoing Revenue:**
-- Grants (operating)
+- Corporate partners & sponsors
+- Private investors
 - Individual donations (monthly giving)
 - Crowdfunding (GoFundMe)
 - Fundraising events
 - Social enterprise income
+
+*Rationale: Accepting federal funding would be hypocritical and inauthentic given our values. Private funding preserves autonomy and alignment with mission.*
 
 ---
 
@@ -255,14 +261,14 @@ This is a **documented gap** in the housing assistance ecosystem.
 
 ### Year 1-2 Goals
 - Establish program
-- Serve first cohort (5-10 women)
+- Serve first cohort (5-10 families)
 - Build track record
-- Secure multi-year grants
+- Secure multi-year private funding
 
 ### Year 3-5 Goals
-- Full capacity (15-20 women)
+- Full capacity (10 families)
 - Diversified funding
-- Replicate model?
+- Expand Phase 2: Tiny house village for graduates
 
 ### Long-Term Vision
 - Demonstrated success → expand to additional locations
@@ -286,13 +292,16 @@ This is a **documented gap** in the housing assistance ecosystem.
 ## 11. Timeline
 
 | Milestone | Target |
-|-----------|--------|
-| 501(c)(3) filed | Q3 2026 |
-| Land secured | Q4 2026 |
-| Site work & permits | Q1 2027 |
-| Construction begins | Q2 2027 |
-| First residents | Q3 2027 |
-| First graduates | Q1 2028 |
+|----------|--------|
+| Legal business registration (TX LLC) | TBD |
+| EIN obtained | TBD |
+| Legal counsel secured | TBD |
+| Begin investor outreach | TBD |
+| Land secured | TBD |
+| Site work & permits | TBD |
+| Construction begins | TBD |
+| First residents | TBD |
+| First graduates | TBD |
 
 ---
 
@@ -310,5 +319,5 @@ This is a **documented gap** in the housing assistance ecosystem.
 
 ---
 
-*Business Plan prepared: July 2026*
+*Business Plan prepared: August 2026*
 *We Elevate — Together we rise.*
