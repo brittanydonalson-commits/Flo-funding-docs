@@ -183,18 +183,18 @@
 
 | Acres | Price/Acre | Total |
 |-------|------------|-------|
-| 10 acres | $8,000-$15,000 | $80,000-$150,000 |
-| 15 acres | $8,000-$15,000 | $120,000-$225,000 |
-| 20 acres | $8,000-$15,000 | $160,000-$300,000 |
+| 40 acres | $8,000-$15,000 | $320,000-$600,000 |
+| 50 acres | $8,000-$15,000 | $400,000-$750,000 |
 
 *Milam County rural land runs ~$8,000-$15,000/acre depending on road frontage, utilities, and terrain.*
 
-**Target:** 10-20 acres for Phase 1 + future expansion
+**Minimum target: 40 acres** — Needed for housing, farm, gardens, pastures, education center, future expansion.
 
-| Scenario | Build Cost | Land (10 ac) | Total |
+
+| Scenario | Build Cost | Land (40 ac) | Total |
 |----------|------------|--------------|-------|
-| Low | $155,900 | $80,000 | $235,900 |
-| High (w/buffer) | $180,000 | $150,000 | $330,000 |
+| Low | $155,900 | $320,000 | $475,900 |
+| High (w/buffer) | $180,000 | $600,000 | $780,000 |
 
 *If land is donated/leased, total drops significantly.*
 | Buffer (15%) | $23,400 |
